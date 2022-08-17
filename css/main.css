@@ -1,0 +1,22 @@
+:root {
+  --color-blue-medium: #8fe2e4;
+  --color-purple: #632ce7;
+  --color-gray: #ccc;
+  --color-gray-medium: #f8f9fa;
+  --color-yellow: #fac32c;
+  --color-darkblue: rgb(0, 98, 255);
+}
+/*General style*/
+a{
+  color:inherit;
+}
+body{
+  background-image: url("../img/font.jpeg");
+  background-repeat: no-repeat;
+}
+
+/*Sections*/
+/*Nav*/
+.navbar-brand > img{
+  width: 200px;
+}
